@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoFinal.Server", "ProyectoFinal\Server\ProyectoFinal.Server.csproj", "{ED555A19-56C6-4E1D-B29A-31D4DA21B1E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoFinal.Server", "ProyectoFinal\Server\ProyectoFinal.Server.csproj", "{ED555A19-56C6-4E1D-B29A-31D4DA21B1E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoFinal.Client", "ProyectoFinal\Client\ProyectoFinal.Client.csproj", "{6BBAD7E3-6A61-466F-A656-3F57A6476DEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoFinal.Client", "ProyectoFinal\Client\ProyectoFinal.Client.csproj", "{6BBAD7E3-6A61-466F-A656-3F57A6476DEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoFinal.Shared", "ProyectoFinal\Shared\ProyectoFinal.Shared.csproj", "{F10011FA-1E1A-44CF-AA84-5203D28181C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoFinal.Shared", "ProyectoFinal\Shared\ProyectoFinal.Shared.csproj", "{F10011FA-1E1A-44CF-AA84-5203D28181C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
