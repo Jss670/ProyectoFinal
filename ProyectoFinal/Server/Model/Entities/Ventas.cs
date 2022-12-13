@@ -8,7 +8,7 @@ namespace ProyectoFinal.Server.Model.Entities
        
         public int Id { get; set; }
 
-        public int IdPruducto { get; set; }
+        public int IdProducto { get; set; }
 
 
         public int FechaVenta { get; set; }
